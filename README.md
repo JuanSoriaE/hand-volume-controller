@@ -4,4 +4,4 @@ Control the volume with your hand.
 
 ## Get started
 
-Run ´´´pip install opencv-contrib-python mediapipe comtypes pycaw´´´
+Run ```pip install opencv-contrib-python mediapipe comtypes pycaw```
